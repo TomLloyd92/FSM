@@ -1,0 +1,70 @@
+﻿  Animation.cpp
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\jumping.h(7): error C2504: 'State': base class undefined
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(12): error C2039: 'cout': is not a member of 'std'
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(12): error C2065: 'cout': undeclared identifier
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(12): error C2039: 'endl': is not a member of 'std'
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(12): error C2065: 'endl': undeclared identifier
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(17): error C2039: 'cout': is not a member of 'std'
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(17): error C2065: 'cout': undeclared identifier
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(17): error C2039: 'endl': is not a member of 'std'
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(17): error C2065: 'endl': undeclared identifier
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(22): error C2039: 'cout': is not a member of 'std'
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(22): error C2065: 'cout': undeclared identifier
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(22): error C2039: 'endl': is not a member of 'std'
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(22): error C2065: 'endl': undeclared identifier
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\climbing.h(15): error C2061: syntax error: identifier 'Idle'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\jumping.h(6): error C2011: 'Jumping': 'class' type redefinition
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\jumping.h(6): note: see declaration of 'Jumping'
+  Idle.cpp
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\jumping.h(7): error C2504: 'State': base class undefined
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(12): error C2039: 'cout': is not a member of 'std'
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(12): error C2065: 'cout': undeclared identifier
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(12): error C2039: 'endl': is not a member of 'std'
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(12): error C2065: 'endl': undeclared identifier
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(17): error C2039: 'cout': is not a member of 'std'
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(17): error C2065: 'cout': undeclared identifier
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(17): error C2039: 'endl': is not a member of 'std'
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(17): error C2065: 'endl': undeclared identifier
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(22): error C2039: 'cout': is not a member of 'std'
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(22): error C2065: 'cout': undeclared identifier
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(22): error C2039: 'endl': is not a member of 'std'
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\state.h(22): error C2065: 'endl': undeclared identifier
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\climbing.h(15): error C2061: syntax error: identifier 'Idle'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\jumping.h(6): error C2011: 'Jumping': 'class' type redefinition
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\jumping.h(6): note: see declaration of 'Jumping'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\climbing.h(7): error C2011: 'Climbing': 'class' type redefinition
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\climbing.h(7): note: see declaration of 'Climbing'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\idle.h(9): error C2011: 'Idle': 'class' type redefinition
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\idle.h(9): note: see declaration of 'Idle'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\idle.cpp(3): error C2027: use of undefined type 'Idle'
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\idle.h(9): note: see declaration of 'Idle'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\idle.cpp(6): error C2027: use of undefined type 'Idle'
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\idle.h(9): note: see declaration of 'Idle'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\idle.cpp(7): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\idle.cpp(9): error C2027: use of undefined type 'Idle'
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\idle.h(9): note: see declaration of 'Idle'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\idle.cpp(12): error C2027: use of undefined type 'Idle'
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\idle.h(9): note: see declaration of 'Idle'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\idle.cpp(13): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+  Source.cpp
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\jumping.h(7): error C2504: 'State': base class undefined
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\climbing.h(15): error C2061: syntax error: identifier 'Idle'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\jumping.h(6): error C2011: 'Jumping': 'class' type redefinition
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\jumping.h(6): note: see declaration of 'Jumping'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\climbing.h(7): error C2011: 'Climbing': 'class' type redefinition
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\climbing.h(7): note: see declaration of 'Climbing'
+c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\idle.h(9): error C2011: 'Idle': 'class' type redefinition
+  c:\users\c00231308\appdata\local\temp\fsm\fsm\fsm\idle.h(9): note: see declaration of 'Idle'
+  Generating Code...
